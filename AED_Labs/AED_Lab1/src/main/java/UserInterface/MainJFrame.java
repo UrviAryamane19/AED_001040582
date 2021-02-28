@@ -9,7 +9,7 @@ import Business.Product;
 
 /**
  *
- * @author kisan
+ * @author Urvi
  */
 public class MainJFrame extends javax.swing.JFrame {
     
