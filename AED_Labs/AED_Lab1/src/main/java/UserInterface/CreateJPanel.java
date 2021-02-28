@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author kisan
+ * @author Urvi
  */
 public class CreateJPanel extends javax.swing.JPanel {
     
